@@ -1,0 +1,19 @@
+{
+  "name": "dopeasslettuce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./server.js",
+  "scripts": {
+    "start": "node ./src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aec1140/norm.ie.git"
+  },
+  "author": "Alex Cook",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aec1140/norm.ie/issues"
+  },
+  "homepage": "https://github.com/aec1140/norm.ie#readme"
+}
